@@ -13,15 +13,15 @@ DAY 1
 10. Finding factorial of a number
 
 DAY 2
-1.Liner search
-2.Binary search
-3.sorting n array
-4.heap sort
-5.merge sort
-6.insertion sort
-7.quick sort
-8.stack using array
-9.queue using an array
+1. Liner search
+2. Binary search
+3. sorting n array
+4. heap sort
+5. merge sort
+6. insertion sort
+7. quick sort
+8. stack using array
+9. queue using an array
 10. sort string using alphabetical order
 
 DAY 3
